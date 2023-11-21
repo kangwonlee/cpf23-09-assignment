@@ -26,6 +26,7 @@ column 이름 | 변수형 | 설명
 ## 참고
 * https://pandas.pydata.org/docs/user_guide/10min.html
 * https://docs.python.org/3/library/os.html
+   * https://docs.python.org/3/library/os.html#os.stat
 * https://docs.python.org/3/library/time.html
 ## Github 온라인 편집기 필요한 경우 사용법
 * <kbd>.</kbd> 키를 누르면 MS VS Code 의 Web version 이 시작됨
