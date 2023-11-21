@@ -2,7 +2,7 @@
     "tests": [
       {
         "name": "check_grammar",
-        "setup": "",
+        "setup": "sudo -H pip3 install -r requirements.txt",
         "run": "python ex09.py",
         "input": "",
         "output": "",
