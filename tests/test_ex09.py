@@ -76,8 +76,7 @@ def test_func09(test_folder_tree, a_time, b_time):
         ]
     )
 
-    df.sort_values(by=["fname"], inplace=True)
-    df.reset_index(drop=True, inplace=True)
+    expected_df.set_index("fname", inplace=True)
 
     pd.testing.assert_frame_equal(df, expected_df)
 

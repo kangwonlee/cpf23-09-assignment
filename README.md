@@ -20,7 +20,7 @@ column 이름 | 변수형 | 설명
 `size` | `int` | 파일 크기
 `time` | `float` | 파일 최종 수정 시간
 
-* DataFrame 의 index 는 다음과 같이 정리하시오.
+* DataFrame 의 index 로 `fname` column 을 사용하시오.
 * 해당 `DataFrame` 을 반환하시오.
 ## 참고
 * https://pandas.pydata.org/docs/user_guide/10min.html
