@@ -23,6 +23,7 @@ column 이름 | 변수형 | 설명
 * DataFrame 의 index 로 `fname` column 을 사용하시오.
 * index 를 기준으로 알파벳 순서 대로 DataFrame 을 정렬하시오.
 * 해당 `DataFrame` 을 반환하시오.
+* 해당 파이썬 스크립트 파일에는 해당 함수만 제출 바랍니다
 ## 참고
 * https://pandas.pydata.org/docs/user_guide/10min.html
 * https://docs.python.org/3/library/os.html
